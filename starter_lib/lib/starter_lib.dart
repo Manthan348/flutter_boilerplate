@@ -13,6 +13,8 @@ export 'src/routes/app_routes.dart';
 export 'src/services/image/app_image_cache_service.dart';
 export 'src/services/local_storage_service.dart';
 export 'src/services/network_service.dart';
+export 'src/starter/state_management/state_management_starter_app.dart';
+export 'src/starter/state_management/state_management_type.dart';
 export 'src/widgets/forms/app_date_time_picker_field.dart';
 export 'src/widgets/forms/dynamic_dropdown_field.dart';
 export 'src/widgets/forms/dynamic_input_field.dart';
